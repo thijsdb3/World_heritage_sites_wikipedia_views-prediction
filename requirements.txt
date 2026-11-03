@@ -1,0 +1,6 @@
+pandas
+matplotlib
+country_converter
+scikit-learn
+seaborn
+numpy
